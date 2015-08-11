@@ -1,3 +1,9 @@
+#Add the file
+#Create the Java Script file
+#Save the file was server.js
+# Finaly start the port
+
+
 var http = require('http');
 
 http.createServer(function (req, res) {
